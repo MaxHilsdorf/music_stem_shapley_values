@@ -13,3 +13,5 @@ The excel file with the analysis results for each coalition can be found in ```a
 * ```music_shapley.py``` implements the music stem shapley value as a simple class.
 * ```compute_shapley_values.py``` can be used to get a quick shapley value analysis for one of the three example tracks.
 * ```create_visualizations.py``` generates the visualizations used in the blog post.
+
+The mp3 files in the ```music/``` directory are based on three songs from the Free Music Archive (FMA) dataset. The directory includes the original songs as well as the instrument stems and the recombined instrument "coalitions".
