@@ -2,8 +2,8 @@ import pydub
 import os
 import itertools
 
-STEM_DIR = "E:/OneDrive/uni_work/programming/data_science/music_xai_stemming/music/stems/"
-COALITION_DIR = "E:/OneDrive/uni_work/programming/data_science/music_xai_stemming/music/coalitions/"
+STEM_DIR = "../music/stems/"
+COALITION_DIR = "../music/coalitions/"
 
 file_names = os.listdir(STEM_DIR)
 
